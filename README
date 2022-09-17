@@ -1,0 +1,17 @@
+EC60011 - Assignment 2
+======================
+
+Author: Utkarsh Patel (18EC35034)
+
+
+* Build the project as 
+
+    ```shell
+    $ make
+    ```
+
+* Run the game as 
+
+    ```shell
+    $ ./game
+    ```
